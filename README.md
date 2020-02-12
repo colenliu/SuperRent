@@ -1,3 +1,3 @@
 # SuperRent
 
-Term Project
+Term Project demonstrating Java, JDBC, Oracle Database, and MySQL
