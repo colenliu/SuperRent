@@ -1,10 +1,5 @@
 # Rental Car Company System
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-    <img src="image.png" alt="Logo" width="180" height="80">
-  </a>
 
   <h3 align="center">Terminal for Rental Car Company Users and Employees</h3>
 
